@@ -1,4 +1,3 @@
-# Core-talks-edu: assignment 3
-
+# Core-talks-edu: bootstrap landing page
 
 ## [Live Site ](https://taiyebnirjhar.github.io/Core-talks-edu/)
